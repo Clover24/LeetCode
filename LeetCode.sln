@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_1-Two_Sum", "LeetCode_1-Two_Sum\LeetCode_1-Two_Sum.vcxproj", "{18E7FC0B-A6B0-4DF5-8408-BF93BD8D8C60}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_217-Contains_Duplicate", "LeetCode_217-Contains_Duplicate\LeetCode_217-Contains_Duplicate.vcxproj", "{8934883F-40E3-4E33-9DD9-435BB9E7D7B2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_217-Contains_Duplicate", "LeetCode_217-Contains_Duplicate\LeetCode_217-Contains_Duplicate.vcxproj", "{16C15633-39F5-4A6D-8B52-5213DB58AD45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18E7FC0B-A6B0-4DF5-8408-BF93BD8D8C60}.Debug|Win32.ActiveCfg = Debug|Win32
-		{18E7FC0B-A6B0-4DF5-8408-BF93BD8D8C60}.Debug|Win32.Build.0 = Debug|Win32
-		{18E7FC0B-A6B0-4DF5-8408-BF93BD8D8C60}.Release|Win32.ActiveCfg = Release|Win32
-		{18E7FC0B-A6B0-4DF5-8408-BF93BD8D8C60}.Release|Win32.Build.0 = Release|Win32
-		{8934883F-40E3-4E33-9DD9-435BB9E7D7B2}.Debug|Win32.ActiveCfg = Debug|Win32
-		{8934883F-40E3-4E33-9DD9-435BB9E7D7B2}.Debug|Win32.Build.0 = Debug|Win32
-		{8934883F-40E3-4E33-9DD9-435BB9E7D7B2}.Release|Win32.ActiveCfg = Release|Win32
-		{8934883F-40E3-4E33-9DD9-435BB9E7D7B2}.Release|Win32.Build.0 = Release|Win32
+		{16C15633-39F5-4A6D-8B52-5213DB58AD45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16C15633-39F5-4A6D-8B52-5213DB58AD45}.Debug|Win32.Build.0 = Debug|Win32
+		{16C15633-39F5-4A6D-8B52-5213DB58AD45}.Release|Win32.ActiveCfg = Release|Win32
+		{16C15633-39F5-4A6D-8B52-5213DB58AD45}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
