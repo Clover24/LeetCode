@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_151-Reverse_Words_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_003-Longest_Substring_Without_Repeating_Characters", "LeetCode_003-Longest_Substring_Without_Repeating_Characters\LeetCode_003-Longest_Substring_Without_Repeating_Characters.vcxproj", "{31F8E31D-B0EE-4A85-9843-8EFE45A40154}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_012-Integer_to_Roman", "LeetCode_012-Integer_to_Roman\LeetCode_012-Integer_to_Roman.vcxproj", "{78E7D174-38BB-4752-80E1-2D5A365B3E02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -39,6 +41,10 @@ Global
 		{31F8E31D-B0EE-4A85-9843-8EFE45A40154}.Debug|Win32.Build.0 = Debug|Win32
 		{31F8E31D-B0EE-4A85-9843-8EFE45A40154}.Release|Win32.ActiveCfg = Release|Win32
 		{31F8E31D-B0EE-4A85-9843-8EFE45A40154}.Release|Win32.Build.0 = Release|Win32
+		{78E7D174-38BB-4752-80E1-2D5A365B3E02}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78E7D174-38BB-4752-80E1-2D5A365B3E02}.Debug|Win32.Build.0 = Debug|Win32
+		{78E7D174-38BB-4752-80E1-2D5A365B3E02}.Release|Win32.ActiveCfg = Release|Win32
+		{78E7D174-38BB-4752-80E1-2D5A365B3E02}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
