@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_012-Integer_to_Rom
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_007-Reverse_Integer", "LeetCode_007-Reverse_Integer\LeetCode_007-Reverse_Integer.vcxproj", "{B8FDB835-5A50-432A-B771-DB2184DA5A71}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_011-Container_With_Most_Water", "LeetCode_011-Container_With_Most_Water\LeetCode_011-Container_With_Most_Water.vcxproj", "{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -51,6 +53,10 @@ Global
 		{B8FDB835-5A50-432A-B771-DB2184DA5A71}.Debug|Win32.Build.0 = Debug|Win32
 		{B8FDB835-5A50-432A-B771-DB2184DA5A71}.Release|Win32.ActiveCfg = Release|Win32
 		{B8FDB835-5A50-432A-B771-DB2184DA5A71}.Release|Win32.Build.0 = Release|Win32
+		{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}.Debug|Win32.Build.0 = Debug|Win32
+		{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}.Release|Win32.ActiveCfg = Release|Win32
+		{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
