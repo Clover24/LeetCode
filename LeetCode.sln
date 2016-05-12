@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_007-Reverse_Intege
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_011-Container_With_Most_Water", "LeetCode_011-Container_With_Most_Water\LeetCode_011-Container_With_Most_Water.vcxproj", "{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_005-Longest-Palindromic-Substring", "LeetCode_005-Longest-Palindromic-Substring\LeetCode_005-Longest-Palindromic-Substring.vcxproj", "{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -57,6 +59,10 @@ Global
 		{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}.Debug|Win32.Build.0 = Debug|Win32
 		{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}.Release|Win32.ActiveCfg = Release|Win32
 		{EFEBC762-E0CB-4E01-8FA4-B0E552169F22}.Release|Win32.Build.0 = Release|Win32
+		{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}.Debug|Win32.Build.0 = Debug|Win32
+		{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}.Release|Win32.ActiveCfg = Release|Win32
+		{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
