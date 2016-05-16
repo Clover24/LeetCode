@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_035-Search_Insert_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_020-Valid_Parentheses", "LeetCode_020-Valid_Parentheses\LeetCode_020-Valid_Parentheses.vcxproj", "{D70BCFE6-DF38-4359-90BD-AE99B467BB17}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_022-Generate_Parentheses", "LeetCode_022-Generate_Parentheses\LeetCode_022-Generate_Parentheses.vcxproj", "{300A6E9B-E132-4874-82E3-DE55B49D0D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -75,6 +77,10 @@ Global
 		{D70BCFE6-DF38-4359-90BD-AE99B467BB17}.Debug|Win32.Build.0 = Debug|Win32
 		{D70BCFE6-DF38-4359-90BD-AE99B467BB17}.Release|Win32.ActiveCfg = Release|Win32
 		{D70BCFE6-DF38-4359-90BD-AE99B467BB17}.Release|Win32.Build.0 = Release|Win32
+		{300A6E9B-E132-4874-82E3-DE55B49D0D5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{300A6E9B-E132-4874-82E3-DE55B49D0D5B}.Debug|Win32.Build.0 = Debug|Win32
+		{300A6E9B-E132-4874-82E3-DE55B49D0D5B}.Release|Win32.ActiveCfg = Release|Win32
+		{300A6E9B-E132-4874-82E3-DE55B49D0D5B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
