@@ -21,6 +21,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_011-Container_With
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_005-Longest-Palindromic-Substring", "LeetCode_005-Longest-Palindromic-Substring\LeetCode_005-Longest-Palindromic-Substring.vcxproj", "{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_035-Search_Insert_Position", "LeetCode_035-Search_Insert_Position\LeetCode_035-Search_Insert_Position.vcxproj", "{651DC7A9-C1EB-4871-B3F4-8CF017912C13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_020-Valid_Parentheses", "LeetCode_020-Valid_Parentheses\LeetCode_020-Valid_Parentheses.vcxproj", "{D70BCFE6-DF38-4359-90BD-AE99B467BB17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -63,6 +67,14 @@ Global
 		{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}.Debug|Win32.Build.0 = Debug|Win32
 		{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}.Release|Win32.ActiveCfg = Release|Win32
 		{9E789B4E-9E54-40EC-AD33-C8A8CD5DE78B}.Release|Win32.Build.0 = Release|Win32
+		{651DC7A9-C1EB-4871-B3F4-8CF017912C13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{651DC7A9-C1EB-4871-B3F4-8CF017912C13}.Debug|Win32.Build.0 = Debug|Win32
+		{651DC7A9-C1EB-4871-B3F4-8CF017912C13}.Release|Win32.ActiveCfg = Release|Win32
+		{651DC7A9-C1EB-4871-B3F4-8CF017912C13}.Release|Win32.Build.0 = Release|Win32
+		{D70BCFE6-DF38-4359-90BD-AE99B467BB17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D70BCFE6-DF38-4359-90BD-AE99B467BB17}.Debug|Win32.Build.0 = Debug|Win32
+		{D70BCFE6-DF38-4359-90BD-AE99B467BB17}.Release|Win32.ActiveCfg = Release|Win32
+		{D70BCFE6-DF38-4359-90BD-AE99B467BB17}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
