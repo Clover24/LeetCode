@@ -59,7 +59,7 @@ public:
 	string longestPalindrome(string s) {
 	    if(s.length() <= 1) return s;
 		string res;
-		for (int i = 0; i < s.length() - 1; ++i) {
+		for (int i = 0; i < s.length(); ++i) {
 		    string s1, s2;
 			s1 = longestPalindromeCore(s, i, i + 1);
 			s2 = longestPalindromeCore(s, i , i);
