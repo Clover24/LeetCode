@@ -3,8 +3,8 @@
 using namespace std;
 
 /*
-329. Longest Increasing Path in a Matrix My Submissions QuestionEditorial Solution
-Total Accepted: 13799 Total Submissions: 43088 Difficulty: Hard
+329. Longest Increasing Path in a Matrix
+Difficulty: Hard
 Given an integer matrix, find the length of the longest increasing path.
 From each cell, you can either move to four directions: left, right, up or down.
 You may NOT move diagonally or move outside of the boundary (i.e. wrap-around is not allowed).
