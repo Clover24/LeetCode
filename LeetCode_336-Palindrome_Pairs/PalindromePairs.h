@@ -1,5 +1,6 @@
 #include <vector>
 #include <string>
+#include <unordered_set>
 
 using namespace std;
 
@@ -23,9 +24,13 @@ The palindromes are ["dcbaabcd", "abcddcba", "slls", "llssssll"]
 class Solution {
 public:
 	vector<vector<int>> palindromePairs(vector<string>& words) {
-
+		unordered_set<string> keys;
+		for (int i = 0; i < words.size(); ++i) 
+			keys.insert(words[i]);
 		for (int i = 0; i < words.size(); ++i) {
+			for (int j = 0; j < words.size(); ++j) {
 
+			}
 		}
 	}
 	bool IsPalindrome(string &s) {
