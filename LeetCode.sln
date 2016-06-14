@@ -49,6 +49,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_045-Jump_Game_II",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_274-H-Index", "LeetCode_274-H-Index\LeetCode_274-H-Index.vcxproj", "{AA960620-0E55-455E-BC2B-DD7196811AC5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_318-Maximum_Product_of_Word_Lengths", "LeetCode_318-Maximum_Product_of_Word_Lengths\LeetCode_318-Maximum_Product_of_Word_Lengths.vcxproj", "{07595BE7-2A1E-46EF-BF17-054E3FA2EB85}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_275-H-Index_II", "LeetCode_275-H-Index_II\LeetCode_275-H-Index_II.vcxproj", "{E8A526FD-FBFE-4862-BF50-EDC1CA7F3202}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_264-Ugly_Number_II", "LeetCode_264-Ugly_Number_II\LeetCode_264-Ugly_Number_II.vcxproj", "{7EEE379F-278A-4564-846F-53053494E2F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -147,6 +153,18 @@ Global
 		{AA960620-0E55-455E-BC2B-DD7196811AC5}.Debug|Win32.Build.0 = Debug|Win32
 		{AA960620-0E55-455E-BC2B-DD7196811AC5}.Release|Win32.ActiveCfg = Release|Win32
 		{AA960620-0E55-455E-BC2B-DD7196811AC5}.Release|Win32.Build.0 = Release|Win32
+		{07595BE7-2A1E-46EF-BF17-054E3FA2EB85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07595BE7-2A1E-46EF-BF17-054E3FA2EB85}.Debug|Win32.Build.0 = Debug|Win32
+		{07595BE7-2A1E-46EF-BF17-054E3FA2EB85}.Release|Win32.ActiveCfg = Release|Win32
+		{07595BE7-2A1E-46EF-BF17-054E3FA2EB85}.Release|Win32.Build.0 = Release|Win32
+		{E8A526FD-FBFE-4862-BF50-EDC1CA7F3202}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8A526FD-FBFE-4862-BF50-EDC1CA7F3202}.Debug|Win32.Build.0 = Debug|Win32
+		{E8A526FD-FBFE-4862-BF50-EDC1CA7F3202}.Release|Win32.ActiveCfg = Release|Win32
+		{E8A526FD-FBFE-4862-BF50-EDC1CA7F3202}.Release|Win32.Build.0 = Release|Win32
+		{7EEE379F-278A-4564-846F-53053494E2F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EEE379F-278A-4564-846F-53053494E2F7}.Debug|Win32.Build.0 = Debug|Win32
+		{7EEE379F-278A-4564-846F-53053494E2F7}.Release|Win32.ActiveCfg = Release|Win32
+		{7EEE379F-278A-4564-846F-53053494E2F7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
