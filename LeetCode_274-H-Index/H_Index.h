@@ -27,9 +27,9 @@ public:
 		if (citations.size() < 1)
 			return 0;
 		sort(citations.begin(), citations.end(), greater<int>());
-		int h = 1;
-		while (h <= citations.size() && citations[h - 1] >= h)
+		int h = 0;
+		while (h < citations.size() && citations[h] > h)
 			++h;
-		return --h;
+		return h;
 	}
 };

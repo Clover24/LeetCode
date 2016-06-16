@@ -22,7 +22,7 @@ public:
 		int start = 0;
 		int end = size - 1;
 		int h = 0;
-		while (start < end) {
+		while (start <= end) {
 			int mid = (start + end) / 2;
 			if (citations[mid] > size - 1 - mid) {
 				h = size - mid;
