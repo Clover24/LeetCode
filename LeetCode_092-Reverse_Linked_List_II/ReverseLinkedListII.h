@@ -3,8 +3,8 @@
 using namespace std;
 
 /*
-92. Reverse Linked List II My Submissions QuestionEditorial Solution
-Total Accepted: 74819 Total Submissions: 263899 Difficulty: Medium
+92. Reverse Linked List II
+Difficulty: Medium
 Reverse a linked list from position m to n. Do it in-place and in one-pass.
 
 For example:
