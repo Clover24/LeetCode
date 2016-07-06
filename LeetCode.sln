@@ -67,6 +67,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_214-Shortest_Palin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_330-Patching_Array", "LeetCode_330-Patching_Array\LeetCode_330-Patching_Array.vcxproj", "{56001F97-D442-4883-A1BF-6A781C5AE8A1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_209-Minimum_Size_Subarray_Sum", "LeetCode_209-Minimum_Size_Subarray_Sum\LeetCode_209-Minimum_Size_Subarray_Sum.vcxproj", "{5BEBF479-AAB2-423C-9C3B-9D12CC89F74E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_239-Sliding_Window_Maximum", "LeetCode_239-Sliding_Window_Maximum\LeetCode_239-Sliding_Window_Maximum.vcxproj", "{9FEE30AA-328A-4EB0-973E-6FA469C9F942}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -201,6 +205,14 @@ Global
 		{56001F97-D442-4883-A1BF-6A781C5AE8A1}.Debug|Win32.Build.0 = Debug|Win32
 		{56001F97-D442-4883-A1BF-6A781C5AE8A1}.Release|Win32.ActiveCfg = Release|Win32
 		{56001F97-D442-4883-A1BF-6A781C5AE8A1}.Release|Win32.Build.0 = Release|Win32
+		{5BEBF479-AAB2-423C-9C3B-9D12CC89F74E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BEBF479-AAB2-423C-9C3B-9D12CC89F74E}.Debug|Win32.Build.0 = Debug|Win32
+		{5BEBF479-AAB2-423C-9C3B-9D12CC89F74E}.Release|Win32.ActiveCfg = Release|Win32
+		{5BEBF479-AAB2-423C-9C3B-9D12CC89F74E}.Release|Win32.Build.0 = Release|Win32
+		{9FEE30AA-328A-4EB0-973E-6FA469C9F942}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FEE30AA-328A-4EB0-973E-6FA469C9F942}.Debug|Win32.Build.0 = Debug|Win32
+		{9FEE30AA-328A-4EB0-973E-6FA469C9F942}.Release|Win32.ActiveCfg = Release|Win32
+		{9FEE30AA-328A-4EB0-973E-6FA469C9F942}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
